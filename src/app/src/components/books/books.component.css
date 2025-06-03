@@ -1,0 +1,10 @@
+mat-card {
+  margin: 20px;
+  background-color: #23272f;
+  color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  padding: 24px;
+  transition: box-shadow 0.2s;
+  border: 1px solid #444b58;
+}
